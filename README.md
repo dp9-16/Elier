@@ -80,7 +80,7 @@
 Installation
 - Clone the repository
     ```
-        git clone https://github.com/San-Pallegrino-Trio-Stars/atelier_fecproject.git
+        git clone https://github.com/San-Pallegrino/Elier.git
     ```
 - Install the dependencies
     ```
