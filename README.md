@@ -47,10 +47,7 @@
 
 <details>
     <summary>DEMO</summary>
-    <img width="600" alt="HeroSection" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQwbnZmYXV5d3Zub2FkOGtnMWswcXB1OHFtbXBmMHRtNzhvY2FweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2LmHBN4H43s69NBE0e/giphy.gif">
-
-
-
+        ![gif of reviews](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQwbnZmYXV5d3Zub2FkOGtnMWswcXB1OHFtbXBmMHRtNzhvY2FweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2LmHBN4H43s69NBE0e/giphy.gif)
 </details>
 
 
@@ -64,7 +61,7 @@
 
 [Demo YouTube Video Link](https://www.youtube.com/watch?v=qsZ7apeVM0M)
 
-![gif of productoverview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZnaTZyZ2NocDRtcXZqdDZvZTBzcjV2ZDc1ZW9jZGY4cDd2eDg1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jjPTYiH27vPPauj7Yz/giphy.gif)
+![gif of reviews](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZnaTZyZ2NocDRtcXZqdDZvZTBzcjV2ZDc1ZW9jZGY4cDd2eDg1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jjPTYiH27vPPauj7Yz/giphy.gif)
 
 
 
@@ -98,6 +95,7 @@ Installation
 - Notes
     ```
     Set up a config.js with a token from Github
+    set up .env file with a token from Github
     ```
 
 ## LightHouse Audit Results
