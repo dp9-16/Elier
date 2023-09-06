@@ -1,12 +1,12 @@
 const reviewsRouter = require('express').Router();
 const axios = require('axios');
 require('dotenv').config()
-const basePath = 'https://app-hrsei-api.herokuapp.com/api/fec2/hr-rfe';
+const basePath = 'http://localhost:3005';
 
 
 
 reviewsRouter.get('/getAllReviews', (req, res) => {
-  let productId = 37312;
+  let productId = 1;
   let options = {
     headers: { Authorization: process.env.TOKEN},
     params: {
@@ -31,7 +31,7 @@ reviewsRouter.get('/getAllReviews', (req, res) => {
 
 reviewsRouter.get('/getRatings', (req, res) => {
   // let productId = parseInt(req.query.product_id);
-  let productId = 37315;
+  let productId = 1;
   let options = {
     headers: { Authorization: process.env.TOKEN},
     params: {
